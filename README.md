@@ -1,1 +1,1 @@
-# Taller-Dise-o-Mapas-QGIS
+# Taller-Disenio-Mapas-QGIS
