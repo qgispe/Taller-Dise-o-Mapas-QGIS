@@ -8,5 +8,5 @@ Para poder seguir todo el temario elaborado, es importante contar con una base d
 
  * Instaladores de [QGIS](https://www.qgis.org/en/site/forusers/download.html)
  * [Documentación](https://www.qgis.org/es/docs/index.html)
- * [Libro] (https://volaya.github.io/libro-sig/)
+ * [Libro](https://volaya.github.io/libro-sig/)
 
