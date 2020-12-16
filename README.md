@@ -4,3 +4,6 @@ El Grupo Oficial de Usuarios QGIS Perú promueve el uso y manejo de QGIS en el P
 
 # Recursos 
 Para poder seguir todo el temario elaborado es importante contar con una base de datos, para está ocasión estós insumos que se emplearan durante todo el taller se podrá descargar de manera directa mediante un click del siguiente enlace 👉 [**OpenGeoData-Perú**](https://drive.google.com/uc?export=download&confirm=ku7e&id=1lal3O6tqZc6T2iMMJ9hxYFcpPl499SRk) 
+
+ * Instaladores de [QGIS](https://www.qgis.org/en/site/forusers/download.html)
+
